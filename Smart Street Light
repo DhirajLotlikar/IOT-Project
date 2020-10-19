@@ -100,7 +100,16 @@ else
   digitalWrite(led6,LOW);
 }
   } 
-  
+ else{
+ digitalWrite(led1,LOW);
+ digitalWrite(led2,LOW);
+ digitalWrite(led3,LOW);
+ digitalWrite(led4,LOW);
+ digitalWrite(led5,LOW);
+ digitalWrite(led6,LOW);
+ 
+ 
+ } 
   
   
 }
